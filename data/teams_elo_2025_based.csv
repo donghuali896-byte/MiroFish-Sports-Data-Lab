@@ -1,0 +1,16 @@
+team,elo,adjusted_win_pct,method
+Minnesota Lynx,1636.969,0.6875,2025_WL_alpha_20
+Atlanta Dream,1588.739,0.625,2025_WL_alpha_20
+Las Vegas Aces,1588.739,0.625,2025_WL_alpha_20
+New York Liberty,1554.735,0.578125,2025_WL_alpha_20
+Phoenix Mercury,1554.735,0.578125,2025_WL_alpha_20
+Indiana Fever,1521.743,0.53125,2025_WL_alpha_20
+Seattle Storm,1510.861,0.515625,2025_WL_alpha_20
+Golden State Valkyries,1510.861,0.515625,2025_WL_alpha_20
+Los Angeles Sparks,1489.139,0.484375,2025_WL_alpha_20
+Washington Mystics,1434.076,0.40625,2025_WL_alpha_20
+Dallas Wings,1363.031,0.3125,2025_WL_alpha_20
+Chicago Sky,1363.031,0.3125,2025_WL_alpha_20
+Connecticut Sun,1375.5,0.328125,2025_WL_alpha_20
+Toronto Tempo,1450.0,,expansion_or_missing
+Portland Fire,1450.0,,expansion_or_missing

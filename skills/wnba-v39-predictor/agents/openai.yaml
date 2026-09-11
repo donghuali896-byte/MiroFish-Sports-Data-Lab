@@ -1,0 +1,7 @@
+interface:
+  display_name: "WNBA V3.9 Predictor"
+  short_description: "Generate V3.9 WNBA predictions and reviews"
+  default_prompt: "Use $wnba-v39-predictor to prepare a V3.9 WNBA prediction for the games I provide."
+
+policy:
+  allow_implicit_invocation: true
