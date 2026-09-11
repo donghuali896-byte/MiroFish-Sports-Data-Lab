@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="./README.md"><img src="https://img.shields.io/badge/中文-使用说明-E63946?style=for-the-badge" alt="中文版"></a>
+  <a href="./README_EN.md"><img src="https://img.shields.io/badge/ENGLISH-USER%20GUIDE-0A66C2?style=for-the-badge" alt="English version"></a>
+</p>
+
 # 🏀 WNBA V3.9 Predictor
 
 > 用公开的 WNBA V3.9 工作流，把赛程、赔率和赛前信息整理成可复核的体育数据分析。一步一步来，不猜数据，不追求“神预测”。
