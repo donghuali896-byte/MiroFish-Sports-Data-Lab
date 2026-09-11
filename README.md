@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="./README.md"><img src="https://img.shields.io/badge/中文-使用说明-E63946?style=for-the-badge" alt="中文版"></a>
-  <a href="./README_EN.md"><img src="https://img.shields.io/badge/ENGLISH-USER%20GUIDE-0A66C2?style=for-the-badge" alt="English version"></a>
+  <a href="./README.md"><img height="56" src="https://img.shields.io/badge/🇨🇳%20中文版-查看中文使用说明-E63946?style=for-the-badge" alt="中文版"></a>
+  <a href="./README_EN.md"><img height="56" src="https://img.shields.io/badge/🇺🇸%20ENGLISH-OPEN%20ENGLISH%20GUIDE-0A66C2?style=for-the-badge" alt="English version"></a>
 </p>
 
 # 🏀 WNBA V3.9 Predictor
